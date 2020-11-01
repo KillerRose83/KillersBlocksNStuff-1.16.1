@@ -1,0 +1,17 @@
+{
+
+  "type": "minecraft:crafting_shaped",
+"pattern": [
+"XXX",
+"X X",
+"   "
+],
+"key": {
+"X": {
+"item": "kbns:vibranium_ingot"
+}
+},
+"result": {
+"item": "kbns:vibranium_helmet"
+}
+}

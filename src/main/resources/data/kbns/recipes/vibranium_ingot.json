@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "LVL",
+    "VIV",
+    "LVL"
+  ],
+  "key":
+  {
+    "V":
+    {
+      "item": "kbns:vibranium_powder"
+    },
+    "I":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "L":
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result":
+  {
+    "item": "kbns:vibranium_ingot",
+    "count": 1
+  }
+}

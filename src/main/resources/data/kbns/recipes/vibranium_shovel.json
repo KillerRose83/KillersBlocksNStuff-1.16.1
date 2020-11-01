@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " x ",
+    " s ",
+    " s "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "kbns:vibranium_ingot"
+    },
+    "s":
+    {
+      "item": "minecraft:reinforced_tool_rod"
+    }
+  },
+  "result":
+  {
+    "item": "kbns:vibranium_shovel",
+    "count": 1
+  }
+}
